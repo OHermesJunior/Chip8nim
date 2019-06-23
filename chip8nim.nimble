@@ -5,7 +5,7 @@ author        = "Hermes Junior"
 description   = "Yet another Chip8 emulator (Nim edition)"
 license       = "MIT"
 srcDir        = "src"
-bin           = @["chip8nim"]
+bin           = @["chip8"]
 
 
 
